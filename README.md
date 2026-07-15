@@ -58,8 +58,18 @@ Designed and developed a relational database for a Zomato-like food delivery pla
 
 ## 📷 Database Preview
 
+### Database Schema
 
-```markdown
+The following image shows the complete database schema used in the project.
+
+![Database Schema](Images/Schema_zomato_database.png)
+
+---
+
+### Entity Relationship (ER) Diagram
+
+The ER Diagram illustrates the relationships between the database tables.
+
 ![ER Diagram](Images/ER-Diagram.png)
 ```
 
