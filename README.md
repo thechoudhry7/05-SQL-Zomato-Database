@@ -58,7 +58,6 @@ Designed and developed a relational database for a Zomato-like food delivery pla
 
 ## 📷 Database Preview
 
-*Add your ER Diagram or schema screenshot here.*
 
 ```markdown
 ![ER Diagram](Images/ER-Diagram.png)
