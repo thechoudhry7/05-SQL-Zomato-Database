@@ -62,7 +62,7 @@ Designed and developed a relational database for a Zomato-like food delivery pla
 
 The following image shows the complete database schema used in the project.
 
-![Database Schema](Images/Schema_zomato_database.png)
+![Database Schema](Images/Schema zomato_database.png)
 
 ---
 
